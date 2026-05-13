@@ -1,4 +1,5 @@
 # brainai-llm-chatbot
+# Trabalho acadêmico 
 # Chatbot terminal baseado em LLM utilizando LangChain e Groq API.
 
 # BrainAI - LLM Chatbot
