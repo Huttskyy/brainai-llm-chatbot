@@ -33,19 +33,31 @@ O projeto utiliza engenharia de prompts para restringir respostas apenas ao cont
 ## Objetivo do projeto
 
 Praticar integração com LLMs, engenharia de prompts e desenvolvimento de aplicações conversacionais.
-1. Engenharia de Prompt  
-2. Context injection  
-3. Controle de contexto  
-4. Integração com APIs de IA  
-5. Fluxo conversacional  
-6. Manipulação de mensagens  
-7. Desenvolvimento backend em Python  
-
 
 ---
 
 ## Como executar
+1. Instalar as bibliotecas
 
+Abra o terminal no VS Code, CMD ou colab e rode:
+pip install langchain langchain-groq pypdf
+
+2. Pegar a API Key da Groq
+Entre em:
+Groq Console
+  Faça login
+    Pode usar:
+      Google;
+        GitHub;
+          email.
+Vá em:
+  API Keys
+    Clique:
+      Create API Key
+   3. Colocar a API Key no código
+      
+   4. Como usar PDF no projeto
+Coloque o PDF na mesma pasta do projeto
 ```bash
 pip install langchain langchain-groq
 python main.py
