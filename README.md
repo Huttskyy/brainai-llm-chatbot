@@ -43,20 +43,20 @@ Abra o terminal no VS Code, CMD ou colab e rode:
 pip install langchain langchain-groq pypdf
 
 2. Pegar a API Key da Groq
-Entre em:
-Groq Console
-  Faça login
-    Pode usar:
-      Google;
-        GitHub;
-          email.
-Vá em:
-  API Keys
-    Clique:
-      Create API Key
-   3. Colocar a API Key no código
+-Entre em:
+-Groq Console
+-Faça login
+-Pode usar:
+-Google;
+-GitHub;
+-email.
+-Vá em:
+-API Keys
+-Clique:
+-Create API Key
+3. Colocar a API Key no código
       
-   4. Como usar PDF no projeto
+4. Como usar PDF no projeto
 Coloque o PDF na mesma pasta do projeto
 ```bash
 pip install langchain langchain-groq
