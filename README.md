@@ -33,6 +33,14 @@ O projeto utiliza engenharia de prompts para restringir respostas apenas ao cont
 ## Objetivo do projeto
 
 Praticar integração com LLMs, engenharia de prompts e desenvolvimento de aplicações conversacionais.
+1. Engenharia de Prompt  
+2. Context injection  
+3. Controle de contexto  
+4. Integração com APIs de IA  
+5. Fluxo conversacional  
+6. Manipulação de mensagens  
+7. Desenvolvimento backend em Python  
+
 
 ---
 
